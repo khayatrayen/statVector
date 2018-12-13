@@ -1,0 +1,10 @@
+Package: statVector
+Type: Package
+Title: show density and t-test between two vectors
+Version: 0.1.0
+Author: Rayen Khayat
+Maintainer: The package maintainer <khayatrayen95@gmail.com>
+Description: To show density and to test true difference in means is not equal to 0 for two vector in same time use statV function
+License: 
+Encoding: UTF-8
+LazyData: true
